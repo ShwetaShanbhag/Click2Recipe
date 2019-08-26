@@ -1,0 +1,101 @@
+Example -
+
+Input Ingredients :olive,chicken,rice
+Output -
+
+olive,chicken,riceporedsy onion gandy trickins :  and d-maxher to seponagrain unconpled put and neadto temeloth undil the sgoried ! 
+oe . 
+add tha giraing_pacmel almink in ,  top ris/10it taneses cufs intred enmin . 
+add sautonde sprated f qupsed sograd sugar . 
+meto mixttar ilso ( on tomserong the paps to ale-ingo ailet boin digh ! 
+3 tralese on ven tomking poredy . 
+ckien ;  cut ugtive antigstronl cereder water a
+
+Image 1
+
+Input Ingredients :'kosher_salt ,vinegar ,mayonnaise ,American_cheese ,elbow_macaroni ,dried_chipotle_powder ,green_peppers ,celery ,garlic_powder ,dry_dill_weed ,dry_dill_weed '
+
+Output -
+kosher_salt ,vinegar ,mayonnaise ,American_cheese ,elbow_macaroni ,dried_chipotle_powder ,green_peppers ,celery ,garlic_powder ,dry_dill_weed ,dry_dill_weed   danind 5 s50 minhtes suxtir mixture oothese yagrsaed baki foz 3/22 ounces on a mix . 
+stead riwet it sigat eggsercisk sof ned rembees to gefin_secvwing the cake tugried pothently crap over lall herate . 
+
+ingredients : 
+1 brots ssminks potenures on intor saln
+instarnions : 
+put higd quple skull . 
+ ( ald pender neg ove ogerame toroth and minz uniug shest and  ( pepper ,  lait sand ckonlim tuqoer wat ungil as  ( iste't brown nefveret heen elingr_ameed in yued sire pook and lead on ores to ,  co
+ 
+ 
+Image 2
+ 
+Input Ingredients : 'vinegar
+,kosher_salt
+,mayonnaise
+,American_cheese
+,dried_chipotle_powder
+,garlic_powder
+,celery
+,salt
+,dry_dill_weed
+,green_peppers
+
+Output -
+
+mbine vegeltigkoll ,  ang fik_mixtores . 
+speas . 
+wether oriming . 
+coun fors and to the boil brost . 
+13 .  poming and chuns it enlicoming topstorngrast then atoon intore toqu . 
+plase add e melt oot 20 coo sith a fir/4 minates . 
+
+ingredients : 
+12 brestoggy sedtorn cunn and colk pepled
+3 tableppoon orive exmegale cured condafred
+1/2 cups sallared buch ckonse cuke
+isslouts alt gracnich topned . 
+teafure chices ,  chopped cup brand breag and degn
+1 tablespoon tobamn amsuncostiunt
+1/4 cupled gi
+
+Image 2
+
+Input Ingredients : 'vinegar
+,kosher_salt
+,mayonnaise
+,American_cheese
+,dried_chipotle_powder
+,garlic_powder
+,celery
+,salt
+,dry_dill_weed
+,green_peppers
+
+Image 3
+
+Input Ingredients :
+
+vinegar
+mayonnaise
+kosher_salt
+green_peppers
+elbow_macaroni
+celery
+dried_chipotle_powder
+American_cheese
+garlic_powder
+dry_dill_weed
+horseradish_root
+
+Output -
+
+mbine vegeltigkoll ,  ang fik_mixtores . 
+speas . 
+wether oriming . 
+coun fors and to the boil brost . 
+13 .  poming and chuns it enlicoming topstorngrast then atoon intore toqu . 
+plase add e melt oot 20 coo sith a fir/4 minates . 
+
+ingredients : 
+12 brestoggy sedtorn cunn and colk pepled
+3 tableppoon orive exmegale cured condafred
+1/2 cups sallared buch ckonse cuke
